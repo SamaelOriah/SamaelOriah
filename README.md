@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=Test(1).png alt="Logo Image" width="40%"/>
+  <img src=dragon.bmp alt="Logo Image" width="40%"/>
 </p>
 <h1 align="center" style="margin: 0 auto 0 auto;">Samael Oriah</h1>
 <br/>
