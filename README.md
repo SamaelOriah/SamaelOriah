@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**SamaelOriah/SamaelOriah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src=Test(1).png alt="Logo Image" width="40%"/>
+</p>
+<h1 align="center" style="margin: 0 auto 0 auto;">Samael Oriah / CJ</h1>
+<br/>
+<p align="center">
+<a href="https://github.com/SamaelOriah">
+  <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=SamaelOriah&show_icons=true&card_width=200&text_color=ffffff&icon_color=00ffff&bg_color=1c1917&title_color=00ffff" alt="Cassi's GitHub stats"/>
+</a>
+<a href="https://github.com/SamaelOriah">
+  <img width="39%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamaelOriah&layout=compact&langs_count=8&card_width=100&text_color=ffffff&bg_color=1c1917&title_color=00ffff" alt="Cassi's GitHub Langs" />
+</a>
+</p>
+<p align=center>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherO2&theme=react&bg_color=1c1917&hide_border=false" width="99%"/>
+</p>
